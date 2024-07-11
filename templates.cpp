@@ -10,8 +10,8 @@ private:
 int main ()
 {
     Custom("Ahmed");
-    Custom("tefa");
+    Custom("Mostafa");
     
-std::cout << sub("Ahmed" ,"Tefa")<<std::endl;   
+std::cout << sub("Ahmed" ,"Mostafa")<<std::endl;   
 return 0;
 }
